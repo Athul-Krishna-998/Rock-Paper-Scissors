@@ -33,6 +33,8 @@ function main()
     {
         user.innerText="0";
         comp.innerText="0";
+        userscore=0;
+        compscore=0;
         result.innerHTML=`<p>Press to Play.!!!<p>`
     })
 }
